@@ -49,10 +49,15 @@
           <div id="demo">
                 <img src="img/logo_flamingo2.jpg" class="img-responsive center-block"><br>
         <div id="owl-demo" class="owl-carousel">
-          
-          <div class="item"><img src="img/galerias/h_flamingo/01.jpg" class="img-responsive center-block"></div>
-          <div class="item"><img src="img/galerias/h_flamingo/02.jpg" class="img-responsive center-block"></div>
-          <div class="item"><img src="img/galerias/h_flamingo/03.jpg" class="img-responsive center-block"></div>
+            <div class="item"><img src="img/galerias/h_flamingo/01.jpg" class="img-responsive center-block"></div>
+            <div class="item"><img src="img/galerias/h_flamingo/02.jpg" class="img-responsive center-block"></div>
+            <div class="item"><img src="img/galerias/h_flamingo/03.jpg" class="img-responsive center-block"></div>
+            <div class="item"><img src="img/galerias/h_flamingo/04.jpg" class="img-responsive center-block"></div>
+            <div class="item"><img src="img/galerias/h_flamingo/05.jpg" class="img-responsive center-block"></div>
+            <div class="item"><img src="img/galerias/h_flamingo/06.jpg" class="img-responsive center-block"></div>
+            <div class="item"><img src="img/galerias/h_flamingo/07.jpg" class="img-responsive center-block"></div>
+            <div class="item"><img src="img/galerias/h_flamingo/08.jpg" class="img-responsive center-block"></div>
+            <div class="item"><img src="img/galerias/h_flamingo/09.jpg" class="img-responsive center-block"></div>
         </div>
     </div>
     

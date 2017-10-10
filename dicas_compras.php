@@ -69,7 +69,7 @@
          <div id="box_compras">
              <img src="img/logo_plaza.jpg" class="img-responsive center-block">
              <p>T: 883-1038</p>
-             <p><a href="http://www.caracolplaza.com" target="_blank">www.caracolplaza.com</a></p>
+             <p><a href="http://caracolplaza.com" target="_blank">www.caracolplaza.com</a></p>
              <p>Localizado no coração de Cancún, com mais de 120 lojas que oferecem tudo, desde lembranças e artesanato local até grifes de luxo, galerias de arte e joias.</p>
          </div>
          </div>

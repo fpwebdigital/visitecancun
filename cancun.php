@@ -11,7 +11,7 @@
 
 <p>Cancún é um presente para o agente de viagens. Trata-se de um lugar seguro, belíssimo, com abundantes acomodações de qualidade e atrações suficientes para manter você ocupado e entusiasmado. E cada vez que visitam esta ilha paradisíaca do Caribe, a experiência torna-se ainda melhor!</p>
 
-<p>Com uma extensa renovação de infraestrutura, resorts, praias e atrações, Cancún continua sendo um destino com algo a oferecer para todos os gostos – desde as maravilhas arqueológicas dos Maias, um mar azul turquesa, um mundo subaquático rico, variado (e nosso mais recente museu subáquatico), programas de preservação de tartarugas marinhas e amenidades para férias de nível internacional.</p>
+<p>Com uma extensa renovação de infraestrutura, resorts, praias e atrações, Cancún continua sendo um destino com algo a oferecer para todos os gostos – as maravilhas arqueológicas dos Maias, um mar azul turquesa, um mundo subaquático rico, variado (e nosso mais recente museu subáquatico), programas de preservação de tartarugas marinhas e amenidades para férias de nível internacional.</p>
 
 <p>Cancún oferece uma experiência completa de férias sem paralelo em qualquer outra parte do México ou do Caribe.</p></div></div>
        <div class="col-xs-12 col-sm-8 col-md-8"><div id="fundo_slogan"><img src="img/sobre_cancun.jpg" class="img-responsive"></div></div>
