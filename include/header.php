@@ -59,7 +59,7 @@
             <div class="col-xs-12 col-sm-12 col-md-12">
                 <div id="fundo_logos">
 
-                    <img src="images/logo-novo-cancun.png" class="img-logo">
+                    <a href="index.php"> <img src="images/logo-novo-cancun.png" class="img-logo"></a>
                 </div>
             </div>
 

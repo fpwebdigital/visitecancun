@@ -7,11 +7,11 @@
       <div id="fundo_banner">
           <div id="demo">
           <div id="owl-demo" class="owl-carousel">
-              <div class="item"><img src="images/home1.jpg" class="img-responsive center-block"></div>
-              <div class="item"><img src="images/home2.jpg" class="img-responsive center-block"></div>
-              <div class="item"><img src="images/home3.jpg" class="img-responsive center-block"></div>
-              <div class="item"><img src="images/home4.jpg" class="img-responsive center-block"></div>
-              <div class="item"><img src="images/home5.jpg" class="img-responsive center-block"></div>
+              <div class="item"><img src="images/new-home1.jpg" class="img-responsive center-block"></div>
+              <div class="item"><img src="images/new-home2.jpg" class="img-responsive center-block"></div>
+              <div class="item"><img src="images/new-home3.jpg" class="img-responsive center-block"></div>
+              <div class="item"><img src="images/new-home4.jpg" class="img-responsive center-block"></div>
+              <div class="item"><img src="images/new-home5.jpg" class="img-responsive center-block"></div>
           </div>
           </div>
         </div>
