@@ -1,0 +1,493 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,500,700');
+@import url('https://fonts.googleapis.com/css?family=Bree+Serif');
+body {
+	background-color:#fefdfc;
+    overflow-x: hidden;
+    font-family: 'Raleway', sans-serif;
+
+}
+
+#fundo_slogan {
+	width: 100%;
+	height: auto;
+	margin-top: 50px;
+}
+
+.video2 {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+.slogan{
+	font-family: 'Bree Serif', serif;
+	font-size: 50px;
+	font-weight:700;
+	color: #0097ac;
+	text-transform:uppercase;
+}
+
+.chamada-dicas {
+	font-family: 'Bree Serif', serif;
+	font-size: 22px;
+	font-weight: 700;
+	color: #ffffff;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+.txt_cancun{
+	font-family: 'Raleway', sans-serif;
+	font-size: 16px;
+	color: #464646;
+}
+.txt_direitos{
+	font-family: 'Bree Serif', serif;
+	font-size: 14px;
+	font-weight:300;
+	color: #fff;
+}
+.justificar {
+    text-align: justify;
+}
+.centralizar {
+	text-align: center;
+}
+
+.input_site{
+	width:100%;
+	height: 40px;
+	font-family: 'Raleway', sans-serif;
+	color:#000000;
+	font-size:16px;
+	background-color:#ffffff;
+	outline: none;
+	-webkit-border-radius: 10px 10px 10px 10px;
+	border-radius: 10px 10px 10px 10px;
+	padding-left: 10px;
+	border: solid 1px #d7d7d7;
+	margin-top: 15px;
+}
+.input_site:hover{
+	width:100%;
+	height:40px;
+	font-family: 'Raleway', sans-serif;
+	color:#000000;
+	font-size:16px;
+	background-color:#eeeeee;
+	border: solid 1px #c6982c;
+	outline: none;
+	-webkit-border-radius: 10px 10px 10px 10px;
+	border-radius: 10px 10px 10px 10px;
+	padding-left: 10px;
+	margin-top: 15px;
+}
+.bt-top{
+	margin-top: 15px;
+}
+
+#bg-dicas-home {
+	width: 100%;
+	height: auto;
+	position: relative;
+	background-color: #0097ac;
+	padding: 15px;
+	margin-top: 30px;
+}
+
+#bg-form-home {
+	width: 280px;
+	height: 300px;
+	margin-top: 10px;
+	text-align: center;
+	background-color:#c6982c;
+	position: absolute;
+	z-index: 5;
+	margin-top: 227px;
+	margin-left: 221px;
+}
+
+#fundo_rodape {
+	width: 100%;
+	height: auto;
+	margin-top: 10px;
+	text-align: center;
+	background-color:#c6982c;
+	padding: 20px;
+}
+#slider {
+	width: 100%;
+	max-height: 700px;
+	/*IE bugfix*/
+	padding: 0;
+	margin: 0;
+}
+#slider li {
+	list-style: none;
+}
+
+#logo_novo {
+	width: 100%;
+	height: auto;
+	position: absolute;
+	top: 20px;
+	z-index: 55;
+	text-align: center;
+}
+#logo_novo_interno {
+	width: 100%;
+	height: auto;
+	position: relative;
+	top: 20px;
+	z-index: 55;
+	text-align: center;
+}
+#fundo_logo_interno {
+	width: 100%;
+	height: 360px;
+	background-image:url(../img/background_top.png);
+	background-repeat:repeat-x;
+}
+#fundo_banner{
+	width: 100%;
+	height: auto;
+	position: relative;
+	margin-top: 5px;
+}
+#espaco{
+	width: 100%;
+	height: 50px;
+	position: relative;
+    border-bottom: solid 1px #cccccc;
+}
+#espaco2{
+	width: 100%;
+	height: 30px;
+	position: relative;
+	border-bottom: solid #0097ac 1px;
+	margin-bottom: 20px;
+}
+#fundo_logos{
+	width: 100%;
+	height: auto;
+	position: relative;
+	margin-top: 30px;
+	text-align: center;
+}
+.splitflap {
+            margin: 0 auto;
+            -webkit-perspective-origin: top center;
+            -moz-perspective-origin: top center;
+            -ms-perspective-origin: top center;
+            perspective-origin: top center;
+            -webkit-perspective: 900px;
+            -moz-perspective: 900px;
+            -ms-perspective: 900px;
+            perspective: 900px;
+        }
+#tit_paginas{
+	width: 100%;
+	height: auto;
+	position: relative;
+	margin-bottom: 10px;
+    padding:  20px;
+    text-align: center;
+    border-bottom: solid 3px #0097ac;
+}
+
+.titulos{
+	font-family: 'Bree Serif', serif;
+	font-size: 50px;
+	font-weight:700;
+	color: #0097ac;
+	text-transform:uppercase;
+}
+
+.sub_titulos{
+	font-family: 'Bree Serif', serif;
+	font-size:30px;
+	font-weight:700;
+	color: #0097ac;
+	text-transform:uppercase;
+}
+
+.sub_titulos_dicas{
+	font-family: 'Raleway', sans-serif;
+	font-size:18px;
+	font-weight:700;
+	color: #0097ac;
+}
+
+.texto_corrido {
+	font-family: 'Raleway', sans-serif;
+	font-size: 16px;
+	color: #464646;
+}
+#bx-dicas {
+	width: 100%;
+	height: auto;
+	position: relative;
+	margin-top: 10px;
+	text-align: center;
+}
+
+#box_cancun {
+    text-align: center;
+}
+#box_compras {
+	width: 100%;
+	height: auto;
+	position: relative;
+	margin-top: 10px;
+	text-align: center;
+	font-weight: 300;
+}
+
+#box_red {
+    width: 100%;
+    height: auto;
+    position: relative;
+    background-color: #0097ac;
+    margin-top: 10px;
+    border-radius: 5px;
+    text-align: center;
+    padding: 5px;
+	margin-bottom: 10px;
+}
+
+.titulo_preco{
+	font-family: 'Bree Serif', serif;
+	font-size: 16px;
+	font-weight:300;
+	color: #ffde16;
+}
+
+.tt_mini{
+	font-family: 'Bree Serif', serif;
+	font-size: 12px;
+	font-weight:300;
+	color: #000;
+}
+
+.tt1{
+	font-family: 'Bree Serif', serif;
+	font-size: 14px;
+	font-weight:300;
+	color: #fff;
+}
+
+.tt2{
+	font-family: 'Bree Serif', serif;
+	font-size: 20px;
+	font-weight:700;
+	color: #fff;
+}
+.tt3{
+	font-family: 'Bree Serif', serif;
+	font-size: 25px;
+	font-weight:300;
+	color: #fff;
+}
+.botao_oferta{
+	width: 100%;
+	border: none;
+	cursor: pointer;
+	padding: 10px;
+	outline: none;
+	position: relative;
+	-webkit-transition: all 0.4s;
+	-moz-transition: all 0.4s;
+	transition: all 0.4s;
+	font-size: 16px;
+	font-family: 'Bree Serif', serif;
+	font-weight:300;
+	color: #fff;
+	background-color:#0097ac;
+	border-radius: 5px;
+	border-bottom: solid 2px #0f2e52;
+}
+.botao_oferta:hover {
+	background: #c6982c;
+	color: #fff;
+	font-size: 16px;
+	font-family: 'Bree Serif', serif;
+	font-weight:500;
+	text-decoration: none;
+	border-bottom: none;
+	top: 2px;
+	border-bottom: solid 2px #8c6a1a;
+}
+
+.tt4{
+	font-family: 'Bree Serif', serif;
+	font-size: 50px;
+	font-weight:700;
+	color: #fff;
+    
+}
+.tt5{
+	font-family: 'Bree Serif', serif;
+	font-size: 30px;
+	font-weight:700;
+	color: #fff;
+    vertical-align: top;
+}
+
+#fundo_img_oferta {
+	width: 100%;
+	height: auto;
+	margin-top: 20px;
+    position: relative;
+}
+
+#box_branco {
+    width: 100%;
+    height: auto;
+    position: relative;
+    background-color: #fff;
+    margin-top: 10px;
+    border-radius: 5px;
+
+}
+
+.titulo_inclui{
+	font-family: 'Bree Serif', serif;
+	font-size: 16px;
+	font-weight:700;
+	color: #0097ac;
+    text-align: center;
+}
+
+#fundo_parceiros{
+	width: 100%;
+	height: auto;
+	position: relative;
+	margin-top: 30px;
+    border: solid 1px #dfdfdf;
+    text-align: center;
+	-webkit-box-shadow: 3px 11px 16px -8px rgba(168,168,168,1);
+	-moz-box-shadow: 3px 11px 16px -8px rgba(168,168,168,1);
+	box-shadow: 3px 11px 16px -8px rgba(168,168,168,1);
+}
+
+#fundo_hoteis{
+	width: 100%;
+	height: auto;
+	position: relative;
+	margin-top: 15px;
+	-webkit-box-shadow: 3px 11px 16px -8px rgba(168,168,168,1);
+	-moz-box-shadow: 3px 11px 16px -8px rgba(168,168,168,1);
+	box-shadow: 3px 11px 16px -8px rgba(168,168,168,1);
+}
+
+.link_site{
+	font-family: 'Bree Serif', serif;
+	font-size:16px;
+	font-weight:300;
+	color: #0097ac;
+	text-transform:uppercase;
+}
+.link_site2{
+	font-family: 'Bree Serif', serif;
+	font-size:11px;
+	font-weight:300;
+	color: #0097ac;
+	text-transform:uppercase;
+}
+
+.sub_titulos2{
+	font-family: 'Bree Serif', serif;
+	font-size:20px;
+	font-weight:700;
+	color: #0097ac;
+}
+
+.txt_medio{
+	font-family: 'Bree Serif', serif;
+	font-size: 22px;
+	font-weight:300;
+	color: #464646;
+}
+
+.bt_oferta{
+	font-family: 'Bree Serif', serif;
+	font-size:25px;
+	font-weight:700;
+	color: #ffffff;
+	text-transform:uppercase;
+	background-color: #0097ac;
+	padding: 10px;
+	margin-top: 20px;
+	width: 100%;
+}
+.bt_oferta:hover{
+	font-family: 'Bree Serif', serif;
+	font-size:25px;
+	font-weight:700;
+	color: #fff;
+	text-transform:uppercase;
+}
+#logo_mobile {
+    display: none;
+}
+
+/* Celulares */
+@media screen and (max-width: 768px) {
+    .slogan {
+		font-family: 'Bree Serif', serif;
+    font-size: 20px;
+    font-weight: 700;
+    color: #0097ac;
+    text-transform: uppercase;
+}
+
+
+
+
+.titulos {
+	font-family: 'Bree Serif', serif;
+    font-size: 20px;
+    font-weight: 700;
+    color: #0097ac;
+    text-transform: uppercase;
+}
+#logo_mobile {
+   width: 100%;
+	height: auto;
+	position: absolute;
+	top: 20px;
+	z-index: 55;
+	text-align: center;
+    display: block;
+}
+#logo_novo {
+    display: none;
+}   
+#logo_mobile {
+   width: 100%;
+	height: auto;
+	position: absolute;
+	top: 20px;
+	z-index: 55;
+	text-align: center;
+}
+
+	.img-logo {
+		width: 200px;
+		text-align: center;
+	}
+
+}
+
+
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 568px) {
+
+	.img-logo {
+		width: 200px;
+		text-align: center;
+	}
+
+}

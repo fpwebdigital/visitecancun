@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css?family=Bree+Serif');
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	margin: 0 auto;
+}
+#fundo_topo {
+	width: 100%;
+	height: 105px;
+	position: relative;
+	background-color:#fff;
+    opacity: 0.1;
+	
+}
+#fundo_imgs_topo {
+	width: 100%;
+	height: auto;
+	position: relative;
+	margin:auto;
+	margin-top: 20px;	
+}
+#fundo_imgs_trip {
+	width: 100%;
+	height: auto;
+	position: relative;
+	margin:auto;
+	margin-top: 10px;	
+}
+#fundo_imgs_copa {
+	width: 100%;
+	height: auto;
+	position: relative;
+	margin:auto;
+	margin-top: 30px;	
+}
+#fundo_chamada {
+	width: auto;
+	height: auto;
+	position: relative;
+	margin:auto;
+	padding-bottom: 10px;
+	border-bottom: 1px solid #FFFFFF;
+	text-align:center;
+}
+#fundo_chamada2 {
+	width: auto;
+	height: auto;
+	position: relative;
+	margin:auto;
+	text-align:center;
+}
+#fundo_social1 {
+	width: 100%;
+	height: auto;
+	position: relative;
+	text-align:right;
+}
+#fundo_social2 {
+	width: 100%;
+	height: auto;
+	position: relative;
+	text-align: left;
+}
+
+#espaco {
+	width: 100%;
+	height: 170px;
+	position: relative;	
+}
+#espaco2 {
+	width: 100%;
+	height: 30px;
+	position: relative;	
+}
+
+.chamada {
+	font-size: 80px;
+	font-family: 'Bree Serif', serif;
+	color:#FFF;
+}
+.chamada2 {
+	font-size: 35px;
+	font-family: 'Bree Serif', serif;
+	color:#FFF;
+}
+
+.linksocial:focus {
+	outline: none !important;
+	text-decoration: none !important;
+	color: #FFF !important;
+}
+.linksocial:link {
+	font-size: 20px;
+	font-family: 'Bree Serif', serif;
+	color:#FFF;
+	text-decoration: none;
+}
+.linksocial:visited {
+	font-size: 20px;
+	font-family: 'Bree Serif', serif;
+	color:#FFF;
+	text-decoration: none;
+}
+.linksocial:hover {
+	font-size: 20px;
+	font-family: 'Bree Serif', serif;
+	color:#FFF;
+	text-decoration: underline;
+}
+.linkaw:active {
+	font-size: 20px;
+	font-family: 'Bree Serif', serif;
+	color:#FFF;
+	text-decoration: none;
+}
+
+/* Celulares */
+@media screen and (max-width: 768px) {
+#espaco {
+	width: 100%;
+	height: 20px;
+	position: relative;	
+}
+#espaco2 {
+	width: 100%;
+	height: 20px;
+	position: relative;	
+}
+
+.chamada {
+	font-size: 25px;
+	font-family: 'Bree Serif', serif;
+	color:#FFF;
+}
+.chamada2 {
+	font-size: 15px;
+	font-family: 'Bree Serif', serif;
+	color:#FFF;
+}
+#fundo_social1 {
+	width: 100%;
+	height: auto;
+	position: relative;
+	text-align: center;
+}
+#fundo_social2 {
+	width: 100%;
+	height: auto;
+	position: relative;
+	text-align: center;
+}
+#fundo_imgs_trip {
+	display:none;
+}
