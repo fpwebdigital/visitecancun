@@ -35,7 +35,7 @@
               
           </div></div>
       
-       <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4"><div id="fundo_img_oferta"><img src="img/img_oferta.jpg" class="img-responsive"></div>
+       <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
            <span class="tt_mini">Os preços informados foram convertidos em Reais no dia 08/12/2015 ao câmbio de US$ 1= R$ 3,98 e está sujeito a variação cambial na data da compra. Preço por pessoa em apto duplo. Válido para saída aos sábados de 18/Fev. a 18/Jun/2016.  Parcelamento: Entrada de 25% à vista e saldo em até 9x no cartão de crédito ou cheque pré-datado. Preço válido para opções e datas mais econômicas e até 1 dia após esta publicação. Não válido para período de feiras, feriados, congressos e eventos. Inclui parte aérea e terrestre. Não inclui taxas de embarque aeroportuárias, obrigatórias, no valor de US$ 73 por pessoa ida/volta. Ofertas de lugares limitada. Reservas sujeitas a disponibilidade.</span><br><br><br>
            <a href="" target="_blank" class="botao_oferta"><i class="fa fa-file-pdf-o"></i> Faça o Download da Oferta</a>
        

@@ -7,11 +7,11 @@
       <div id="fundo_banner">
           <div id="demo">
           <div id="owl-demo" class="owl-carousel">
-              <div class="item"><img src="images/new-home1.jpg" class="img-responsive center-block"></div>
-              <div class="item"><img src="images/new-home2.jpg" class="img-responsive center-block"></div>
-              <div class="item"><img src="images/new-home3.jpg" class="img-responsive center-block"></div>
-              <div class="item"><img src="images/new-home4.jpg" class="img-responsive center-block"></div>
-              <div class="item"><img src="images/new-home5.jpg" class="img-responsive center-block"></div>
+              <div class="item"><img src="img/001.png" class="img-responsive center-block"></div>
+              <div class="item"><img src="img/002.png" class="img-responsive center-block"></div>
+              <div class="item"><img src="img/003.png" class="img-responsive center-block"></div>
+              <div class="item"><img src="img/004.png" class="img-responsive center-block"></div>
+              <div class="item"><img src="img/005.png" class="img-responsive center-block"></div>
           </div>
           </div>
         </div>
@@ -63,13 +63,10 @@
 <div class="row">
    <div class="col-sm-4 col-md-4 col-lg-4 col-xs-12"><div id="fundo_hoteis"><a href="hotel_hardrock.php"><img src="img/1-hotel-hardrock.jpg" class="img-responsive center-block"></a></div></div>
    <div class="col-sm-4 col-md-4 col-lg-4 col-xs-12"><div id="fundo_hoteis"><a href="hotel_krystal.php"><img src="img/2-hotel-krystal.jpg" class="img-responsive center-block"></a></div></div>
-   <div class="col-sm-4 col-md-4 col-lg-4 col-xs-12"><div id="fundo_hoteis"><a href="hotel_sandos.php"><img src="img/3-hotel-sandos.jpg" class="img-responsive center-block"></a></div></div>
-   <div class="col-sm-4 col-md-4 col-lg-4 col-xs-12"><div id="fundo_hoteis"><a href="hotel_oasis.php"><img src="img/4-hotel-oasis.jpg" class="img-responsive center-block"></a></div></div>
+    <div class="col-sm-4 col-md-4 col-lg-4 col-xs-12"><div id="fundo_hoteis"><a href="hotel_seadust.php"><img src="img/9-hotel-seadust.jpg" class="img-responsive center-block"></a></div></div>
+    <div class="col-sm-4 col-md-4 col-lg-4 col-xs-12"><div id="fundo_hoteis"><a href="hotel_oasis.php"><img src="img/4-hotel-oasis.jpg" class="img-responsive center-block"></a></div></div>
    <div class="col-sm-4 col-md-4 col-lg-4 col-xs-12"><div id="fundo_hoteis"><a href="hotel_palace.php"><img src="img/5-hotel-palace.jpg" class="img-responsive center-block"></a></div></div>
    <div class="col-sm-4 col-md-4 col-lg-4 col-xs-12"><div id="fundo_hoteis"><a href="hotel_flamingo.php"><img src="img/6-hotel-flamingo.jpg" class="img-responsive center-block"></a></div></div>
-   <div class="col-sm-4 col-md-4 col-lg-4 col-xs-12"><div id="fundo_hoteis"><a href="hotel_iberostar.php"><img src="img/7-hotel-hiberostar.jpg" class="img-responsive center-block"></a></div></div>
-   <div class="col-sm-4 col-md-4 col-lg-4 col-xs-12"><div id="fundo_hoteis"><a href="hotel_secrets.php"><img src="img/8-hotel-secrets.jpg" class="img-responsive center-block"></a></div></div>
-   <div class="col-sm-4 col-md-4 col-lg-4 col-xs-12"><div id="fundo_hoteis"><a href="hotel_seadust.php"><img src="img/9-hotel-seadust.jpg" class="img-responsive center-block"></a></div></div>
 </div>
 </div>
 <!-- Carousel

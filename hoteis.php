@@ -6,13 +6,11 @@
     <div class="row">
         <div class="col-sm-4 col-md-4 col-lg-4 col-xs-12"><div id="fundo_hoteis"><a href="hotel_hardrock.php"><img src="img/1-hotel-hardrock.jpg" class="img-responsive center-block"></a></div></div>
         <div class="col-sm-4 col-md-4 col-lg-4 col-xs-12"><div id="fundo_hoteis"><a href="hotel_krystal.php"><img src="img/2-hotel-krystal.jpg" class="img-responsive center-block"></a></div></div>
-        <div class="col-sm-4 col-md-4 col-lg-4 col-xs-12"><div id="fundo_hoteis"><a href="hotel_sandos.php"><img src="img/3-hotel-sandos.jpg" class="img-responsive center-block"></a></div></div>
+        <div class="col-sm-4 col-md-4 col-lg-4 col-xs-12"><div id="fundo_hoteis"><a href="hotel_seadust.php"><img src="img/9-hotel-seadust.jpg" class="img-responsive center-block"></a></div></div>
         <div class="col-sm-4 col-md-4 col-lg-4 col-xs-12"><div id="fundo_hoteis"><a href="hotel_oasis.php"><img src="img/4-hotel-oasis.jpg" class="img-responsive center-block"></a></div></div>
         <div class="col-sm-4 col-md-4 col-lg-4 col-xs-12"><div id="fundo_hoteis"><a href="hotel_palace.php"><img src="img/5-hotel-palace.jpg" class="img-responsive center-block"></a></div></div>
         <div class="col-sm-4 col-md-4 col-lg-4 col-xs-12"><div id="fundo_hoteis"><a href="hotel_flamingo.php"><img src="img/6-hotel-flamingo.jpg" class="img-responsive center-block"></a></div></div>
-        <div class="col-sm-4 col-md-4 col-lg-4 col-xs-12"><div id="fundo_hoteis"><a href="hotel_iberostar.php"><img src="img/7-hotel-hiberostar.jpg" class="img-responsive center-block"></a></div></div>
-        <div class="col-sm-4 col-md-4 col-lg-4 col-xs-12"><div id="fundo_hoteis"><a href="hotel_secrets.php"><img src="img/8-hotel-secrets.jpg" class="img-responsive center-block"></a></div></div>
-        <div class="col-sm-4 col-md-4 col-lg-4 col-xs-12"><div id="fundo_hoteis"><a href="hotel_seadust.php"><img src="img/9-hotel-seadust.jpg" class="img-responsive center-block"></a></div></div>
+
     </div>
 </div>
 <!-- Rodapé -->

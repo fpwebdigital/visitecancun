@@ -22,14 +22,11 @@
 						<ul>
                             <li><a href="hotel_hardrock.php">Hard Rock Cancun</a></li>
                             <li><a href="hotel_krystal.php">Krystal Grand</a></li>
-                            <li><a href="hotel_sandos.php">Sandos Cancun</a></li>
+                            <li><a href="hotel_seadust.php">Seadust</a></li>
                             <li><a href="hotel_oasis.php">Oasis Hotels</a></li>
                             <li><a href="hotel_palace.php">Palace Resorts</a></li>
                             <li><a href="hotel_flamingo.php">Flamingo Cancun</a></li>
-                            <li><a href="hotel_iberostar.php">Iberostar</a></li>
-                            <li><a href="hotel_secrets.php">Secrets</a></li>
-                            <li><a href="hotel_seadust.php">Seadust</a></li>
-						</ul>
+		</ul>
 					</li>
                     <li><a href="parceiros.php">PARCEIROS</a></li>
                     <li><a href="oferta.php">OFERTA</a></li>
