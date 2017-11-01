@@ -19,6 +19,11 @@
           <div class="item"><img src="img/galerias/h_palace/04.jpg" class="img-responsive center-block"></div>
           <div class="item"><img src="img/galerias/h_palace/05.jpg" class="img-responsive center-block"></div>
           <div class="item"><img src="img/galerias/h_palace/06.jpg" class="img-responsive center-block"></div>
+            <div class="item"><img src="img/galerias/h_palace/07.jpg" class="img-responsive center-block"></div>
+            <div class="item"><img src="img/galerias/h_palace/08.jpg" class="img-responsive center-block"></div>
+            <div class="item"><img src="img/galerias/h_palace/09.jpg" class="img-responsive center-block"></div>
+            <div class="item"><img src="img/galerias/h_palace/10.jpg" class="img-responsive center-block"></div>
+            <div class="item"><img src="img/galerias/h_palace/11.jpg" class="img-responsive center-block"></div>
         </div>
     </div>
     
