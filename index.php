@@ -22,21 +22,34 @@
     <div id="bg-dicas-home">
         <div class="container">
             <div class="row">
-                <form name="contato" method="post" action="envia_dicas.php" target="_parent">
-                    <div class="col-xs-12 col-sm-4 col-md-4"><span class="chamada-dicas">RECEBA DICAS EXCLUSIVAS E TARIFAS PROMOCIONAIS</span></div>
+
+                <script type="text/javascript">var submitted=false;</script>
+                <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"
+                        onload="if(submitted) {window.location='http://www.visitecancun.com.br/obrigado.php';}"></iframe>
+                <form action="https://docs.google.com/forms/d/e/1FAIpQLScaScDaF-yV9brvAK1GKtTlr79fzp82CxkMPNLDeGOO2oEmSA/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true;">
+
+                <div class="col-xs-12 col-sm-4 col-md-4"><span class="chamada-dicas">RECEBA DICAS EXCLUSIVAS E TARIFAS PROMOCIONAIS</span></div>
+
+                    <div class="ss-form-entry">
+
                     <div class="col-xs-12 col-sm-3 col-md-3">
                         <div class="form-group">
-                            <input type="text" class="input_site" id="nome" name="nome" placeholder="Nome*" required="">
+                            <input type="text" name="entry.191721212" value="" class="input_site" id="entry_191721212" dir="auto" aria-label="Nome" aria-required="true" placeholder="Nome" required="" title="">
                         </div>
                     </div>
+
                     <div class="col-xs-12 col-sm-3 col-md-3">
                         <div class="form-group">
-                            <input type="email" class="input_site" id="email" name="email" placeholder="E-mail*" required="">
+                            <input type="text" name="entry.668393407" value="" class="input_site" id="entry_668393407" dir="auto" aria-label="E-mail" aria-required="true" placeholder="E-mail" required="" title="">
                         </div>
 
                     </div>
-                    <div class="col-xs-12 col-sm-2 col-md-2"><button type="button" class="btn btn-default bt-top">Enviar</button></div>
+                    <div class="col-xs-12 col-sm-2 col-md-2">
+                        <input type="submit" name="submit" value="Enviar" id="ss-submit" class="btn btn-default bt-top">
+                    </div>
+                    </div>
                 </form>
+
             </div>
         </div>
     </div>
