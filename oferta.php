@@ -33,7 +33,7 @@
             </div></div>
 
          <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
-             <span class="tt_mini">*Os preços informados foram convertido em Reais no dia 10/11/2017 ao câmbio U$ 1,00 = R$ 3,43 e está sujeito a variação cambial na data da compra. Preço por pessoa em apto duplo. Válido para a saída até 15/Dezembro/2017. Preço válido para opções e datas mais econômicas e até 1 dia após esta publicação. Não válido para período de feiras, feriados, congressos e eventos. Inclui parte aérea e terrestre. Não inclui taxas de embarque aeroportuárias, obrigatórias. Ofertas de lugares limitada. Reservas sujeitas a disponibilidade.</span><br><br><br>
+             <span class="tt_mini">*O preço informado foi convertido em Reais no dia 10/11/2017 ao câmbio de US$ 1= R$ 3,43 e está sujeito a variação cambial na data da compra. Preço por pessoa em apto duplo. Válido para a saída até 15/Dezembro/2017. Preço válido para opções e datas mais econômicas e até 1 dia após esta publicação. Não válido para período de feiras, feriados, congressos e eventos. Não inclui parte aérea, consulte nossas ofertas. Ofertas de lugares limitada. Reservas sujeitas a disponibilidade.</span><br><br><br>
 
 
          </div>
