@@ -21,6 +21,9 @@
           <div class="item"><img src="img/galerias/h_krystal/06.jpg" class="img-responsive center-block"></div>
           <div class="item"><img src="img/galerias/h_krystal/07.jpg" class="img-responsive center-block"></div>
           <div class="item"><img src="img/galerias/h_krystal/08.jpg" class="img-responsive center-block"></div>
+            <div class="item"><img src="img/galerias/h_krystal/09.jpg" class="img-responsive center-block"></div>
+            <div class="item"><img src="img/galerias/h_krystal/10.jpg" class="img-responsive center-block"></div>
+            <div class="item"><img src="img/galerias/h_krystal/11.jpg" class="img-responsive center-block"></div>
         </div>
     </div>
     
