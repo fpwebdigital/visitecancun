@@ -10,7 +10,7 @@
            <div id="box_red">
             <span class="titulo_preco">SISTEMA ALL INCLUSIVE</span><br>
             <span class="tt1">A partir de:</span><br>
-            <span class="tt2">R$ 2.117,00</span><br>
+            <span class="tt2">R$ 2,098,00</span><br>
 
                <!--<span class="tt3">Entrada</span><br>
               <span class="tt3">R$</span> <span class="tt4">0000,</span> <span class="tt5">00</span><br>
@@ -33,7 +33,7 @@
             </div></div>
 
          <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
-             <span class="tt_mini">*O preço informado foi convertido em Reais no dia 10/11/2017 ao câmbio de US$ 1= R$ 3,43 e está sujeito a variação cambial na data da compra. Preço por pessoa em apto duplo. Válido para a saída até 15/Dezembro/2017. Preço válido para opções e datas mais econômicas e até 1 dia após esta publicação. Não válido para período de feiras, feriados, congressos e eventos. Não inclui parte aérea, consulte nossas ofertas. Ofertas de lugares limitada. Reservas sujeitas a disponibilidade.</span><br><br><br>
+             <span class="tt_mini">O preço informado foi convertido em Reais no dia 30/11/2017 ao câmbio de US$ 1= R$ 3,40 e está sujeito a variação cambial na data da compra. Preço por pessoa em apto duplo. Válido para a saída até 15/Dezembro/2017. Preço válido para opções e datas mais econômicas e até 1 dia após esta publicação. Não válido para período de feiras, feriados, congressos e eventos. Não inclui parte aérea, consulte nossas ofertas. Ofertas de lugares limitada. Reservas sujeitas a disponibilidade.</span><br><br><br>
 
 
          </div>
