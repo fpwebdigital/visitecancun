@@ -7,7 +7,7 @@
   
 <div class="container">
     <div class="row">
-      <img src="img/anuncio-cancun.jpg" class="img-responsive center-block">
+      <img src="img/anuncio-atualizado.jpg" class="img-responsive center-block">
 
     </div>
     

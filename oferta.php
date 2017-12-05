@@ -10,7 +10,7 @@
            <div id="box_red">
             <span class="titulo_preco">SISTEMA ALL INCLUSIVE</span><br>
             <span class="tt1">A partir de:</span><br>
-            <span class="tt2">R$ 2,098,00</span><br>
+            <span class="tt2">R$ 2.098,00</span><br>
 
                <!--<span class="tt3">Entrada</span><br>
               <span class="tt3">R$</span> <span class="tt4">0000,</span> <span class="tt5">00</span><br>
